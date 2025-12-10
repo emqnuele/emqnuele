@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science student, into web development, Python, and AI. <br>I like building small projects, experimenting with new tools, and turning ideas into real stuff.
 
 
