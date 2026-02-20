@@ -88,15 +88,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emqnuele&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emqnuele&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
