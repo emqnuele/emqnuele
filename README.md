@@ -23,16 +23,16 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🎓 Computer Science student
-- 🌐 Into web development, Python, and AI
-- 🔨 I like building small projects and experimenting with new tools
-- 💡 Always turning ideas into real stuff
+- Computer Science student
+- Into web development, Python, and AI
+- I like building small projects and experimenting with new tools
+- I always turn ideas into real stuff
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
