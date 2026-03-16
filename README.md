@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://emanuelefaraci.com">
-    <img src="https://emanuelefaraci.com/square.png" height="28" style="border-radius:4px" alt="Portfolio" />
+    <img src="https://emanuelefaraci.com/about/square.png" height="28" style="border-radius:4px" alt="Portfolio" />
   </a>
 </p>
 
