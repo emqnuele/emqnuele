@@ -215,10 +215,6 @@
       <br>VS Code
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM" />
       <br>NPM
     </td>
