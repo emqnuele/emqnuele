@@ -32,13 +32,13 @@
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
 
 <table align="center">
   <tr>
     <td align="center" colspan="7"><b>Languages</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
       <br>Python
@@ -60,7 +60,7 @@
   <tr>
     <td align="center" colspan="7"><b>Frontend</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
       <br>React
@@ -74,8 +74,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=framermotion" width="45" height="45" alt="Framer Motion" />
-      <br>Framer
+      <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="45" height="45" alt="Framer Motion" />
+      <br>Framer Motion
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" />
@@ -90,7 +90,7 @@
   <tr>
     <td align="center" colspan="7"><b>Backend & APIs</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br>FastAPI
@@ -128,9 +128,9 @@
   <tr>
     <td align="center" colspan="7"><b>AI & ML</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="45" height="45" alt="Hugging Face" />
+      <img src="https://avatars.githubusercontent.com/u/25720743" width="45" height="45" alt="Hugging Face" />
       <br>Hugging Face
     </td>
     <td align="center" width="100">
@@ -138,8 +138,8 @@
       <br>PyTorch
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="45" height="45" alt="LangChain / RAG" />
-      <br>LangChain / RAG
+      <img src="https://avatars.githubusercontent.com/u/126733545" width="45" height="45" alt="RAG" />
+      <br>RAG
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="LLM Fine-tuning" />
@@ -150,7 +150,7 @@
   <tr>
     <td align="center" colspan="7"><b>Databases & Cloud</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -168,11 +168,11 @@
       <br>Cloudflare
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neon/neon-original.svg" width="45" height="45" alt="Neon" />
+      <img src="https://avatars.githubusercontent.com/u/77690634" width="45" height="45" alt="Neon" />
       <br>Neon
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/renderco/renderco-icon.svg" width="45" height="45" alt="Render" />
+      <img src="https://avatars.githubusercontent.com/u/45109589" width="45" height="45" alt="Render" />
       <br>Render
     </td>
   </tr>
@@ -180,7 +180,7 @@
   <tr>
     <td align="center" colspan="7"><b>DevOps & Tools</b></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
       <br>Docker
