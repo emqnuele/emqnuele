@@ -32,57 +32,184 @@
 
 ---
 
-## Tech Stack
+<h3 align="center">⚡ Tech Stack</h3>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" colspan="7"><b>Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br>C
+    </td>
+  </tr>
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
+  <tr>
+    <td align="center" colspan="7"><b>Frontend</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=framermotion" width="45" height="45" alt="Framer Motion" />
+      <br>Framer
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="Electron" />
+      <br>Electron
+    </td>
+  </tr>
 
-### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-464646?style=flat-square&logo=zapier&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-4A4A4A?style=flat-square&logo=clockify&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
+  <tr>
+    <td align="center" colspan="7"><b>Backend & APIs</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="45" height="45" alt="Gunicorn" />
+      <br>Gunicorn
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord.js" />
+      <br>Discord.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="45" height="45" alt="Telegram" />
+      <br>Telegram API
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="45" height="45" alt="Webhooks" />
+      <br>Webhooks
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="45" height="45" alt="REST API" />
+      <br>REST API
+    </td>
+  </tr>
 
-### AI & ML
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=databricks&logoColor=white)
+  <tr>
+    <td align="center" colspan="7"><b>AI & ML</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="45" height="45" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="45" height="45" alt="LangChain / RAG" />
+      <br>LangChain / RAG
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="LLM Fine-tuning" />
+      <br>LLM Fine-tuning
+    </td>
+  </tr>
 
-### Databases & Cloud
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+  <tr>
+    <td align="center" colspan="7"><b>Databases & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neon/neon-original.svg" width="45" height="45" alt="Neon" />
+      <br>Neon
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/renderco/renderco-icon.svg" width="45" height="45" alt="Render" />
+      <br>Render
+    </td>
+  </tr>
 
-### DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![UFW](https://img.shields.io/badge/UFW-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS_Setup-0A0A0A?style=flat-square&logo=linode&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat-square&logo=google&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+  <tr>
+    <td align="center" colspan="7"><b>DevOps & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM" />
+      <br>NPM
+    </td>
+  </tr>
+</table>
 
 ---
