@@ -40,6 +40,7 @@
   </tr>
   <tr align="center">
     <td width="100"></td>
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
       <br>Python
@@ -56,7 +57,6 @@
       <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
       <br>C
     </td>
-    <td width="100"></td>
     <td width="100"></td>
     <td width="100"></td>
   </tr>
@@ -136,6 +136,7 @@
   </tr>
   <tr align="center">
     <td width="100"></td>
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://avatars.githubusercontent.com/u/25720743" width="45" height="45" alt="Hugging Face" />
       <br>Hugging Face
@@ -152,7 +153,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="LLM Fine-tuning" />
       <br>LLM Fine-tuning
     </td>
-    <td width="100"></td>
     <td width="100"></td>
     <td width="100"></td>
   </tr>
@@ -193,6 +193,7 @@
     <td align="center" colspan="8"><b>DevOps & Tools</b></td>
   </tr>
   <tr align="center">
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
       <br>Docker
@@ -221,7 +222,6 @@
       <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM" />
       <br>NPM
     </td>
-    <td width="100"></td>
   </tr>
 </table>
 
