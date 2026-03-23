@@ -32,13 +32,14 @@
 
 ---
 
-Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center">⚡ Tech Stack</h3>
 
 <table align="center">
   <tr>
-    <td align="center" colspan="7"><b>Languages</b></td>
+    <td align="center" colspan="8"><b>Languages</b></td>
   </tr>
   <tr align="center">
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
       <br>Python
@@ -55,12 +56,16 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
       <br>C
     </td>
+    <td width="100"></td>
+    <td width="100"></td>
+    <td width="100"></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="7"><b>Frontend</b></td>
+    <td align="center" colspan="8"><b>Frontend</b></td>
   </tr>
   <tr align="center">
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
       <br>React
@@ -85,10 +90,11 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="Electron" />
       <br>Electron
     </td>
+    <td width="100"></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="7"><b>Backend & APIs</b></td>
+    <td align="center" colspan="8"><b>Backend & APIs</b></td>
   </tr>
   <tr align="center">
     <td align="center" width="100">
@@ -126,9 +132,10 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
   </tr>
 
   <tr>
-    <td align="center" colspan="7"><b>AI & ML</b></td>
+    <td align="center" colspan="8"><b>AI & ML</b></td>
   </tr>
   <tr align="center">
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://avatars.githubusercontent.com/u/25720743" width="45" height="45" alt="Hugging Face" />
       <br>Hugging Face
@@ -145,12 +152,16 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="LLM Fine-tuning" />
       <br>LLM Fine-tuning
     </td>
+    <td width="100"></td>
+    <td width="100"></td>
+    <td width="100"></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="7"><b>Databases & Cloud</b></td>
+    <td align="center" colspan="8"><b>Databases & Cloud</b></td>
   </tr>
   <tr align="center">
+    <td width="100"></td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -175,10 +186,11 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
       <img src="https://avatars.githubusercontent.com/u/45109589" width="45" height="45" alt="Render" />
       <br>Render
     </td>
+    <td width="100"></td>
   </tr>
 
   <tr>
-    <td align="center" colspan="7"><b>DevOps & Tools</b></td>
+    <td align="center" colspan="8"><b>DevOps & Tools</b></td>
   </tr>
   <tr align="center">
     <td align="center" width="100">
@@ -209,6 +221,7 @@ Put your HTML text here<h3 align="center">⚡ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM" />
       <br>NPM
     </td>
+    <td width="100"></td>
   </tr>
 </table>
 
