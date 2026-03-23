@@ -141,8 +141,8 @@
       <br>Hugging Face
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
-      <br>PyTorch
+      <img src="https://img.shields.io/badge/%3C%2F%3E-555555?style=for-the-badge&logoColor=white" width="80" height="45" alt="Function Calling" />
+      <br>Function Calling
     </td>
     <td align="center" width="100">
       <img src="https://avatars.githubusercontent.com/u/126733545" width="45" height="45" alt="RAG" />
@@ -217,6 +217,7 @@
       <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="NPM" />
       <br>NPM
     </td>
+    <td width="100"></td>
   </tr>
 </table>
 
