@@ -31,31 +31,39 @@
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,c" alt="Python, TypeScript, JavaScript, C" />
-</p>
-
-<p align="center">
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind" />
-</p>
-
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,nginx,postgres" alt="FastAPI, Nginx, PostgreSQL" />
-</p>
-
-<p align="center">
-  <b>Cloud & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,cloudflare" alt="Docker, Linux, Git, Vercel, Cloudflare" />
-</p>
-
-<p align="center">
-  <b>AI & ML</b><br>
-  RAG · LLM fine-tuning · Agents
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,c" alt="Python, TypeScript, JavaScript, C" />
+    </td>
+    <td align="center">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=fastapi,nginx,postgres" alt="FastAPI, Nginx, PostgreSQL" />
+    </td>
+    <td align="center">
+      <b>Cloud & DevOps</b><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,vercel" alt="Docker, Linux, Git, Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>AI & ML</b><br>
+      RAG · LLM fine-tuning · Agents
+    </td>
+    <td align="center">
+      <b>Infra</b><br>
+      <img src="https://skillicons.dev/icons?i=cloudflare,postgres,nginx" alt="Cloudflare, PostgreSQL, Nginx" />
+    </td>
+  </tr>
+</table>
 
 ---
