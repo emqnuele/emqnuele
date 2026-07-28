@@ -35,118 +35,25 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="4"><b>Languages</b></td>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,js,c" alt="Python, TypeScript, JavaScript, C" /></td>
   </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-      <br>C
-    </td>
-  </tr>
-
   <tr>
-    <td align="center" colspan="4"><b>Frontend</b></td>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind" /></td>
   </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td width="100"></td>
-  </tr>
-
   <tr>
-    <td align="center" colspan="4"><b>Backend & APIs</b></td>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nginx,postgres" alt="FastAPI, Nginx, PostgreSQL" /></td>
   </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td width="100"></td>
-    <td width="100"></td>
-  </tr>
-
   <tr>
-    <td align="center" colspan="4"><b>AI & ML</b></td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://avatars.githubusercontent.com/u/25720743" width="45" height="45" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="100">
-      <img src="https://avatars.githubusercontent.com/u/126733545" width="45" height="45" alt="RAG" />
-      <br>RAG
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="LLM Fine-tuning" />
-      <br>LLM Fine-tuning
-    </td>
-    <td width="100"></td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="4"><b>Databases & Cloud</b></td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
-      <br>Cloudflare
-    </td>
-    <td width="100"></td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="4"><b>DevOps & Tools</b></td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td width="100"></td>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,cloudflare" alt="Docker, Linux, Git, Vercel, Cloudflare" /></td>
   </tr>
 </table>
+
+<p align="center">
+  <b>AI & ML:</b> RAG pipelines · LLM fine-tuning · Hugging Face · agenti autonomi
+</p>
 
 ---
